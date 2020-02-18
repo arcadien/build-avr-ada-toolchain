@@ -122,8 +122,8 @@ build_avrada="no"
 #
 
 #CC="gcc -mno-cygwin"
-CC=gcc
-export CC
+#CC=gcc
+#export CC
 
 #echo "Please adjust the variables above to your environment."
 #echo "No need to change anything below."
